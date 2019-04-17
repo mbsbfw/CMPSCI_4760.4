@@ -4,8 +4,13 @@
 
 >Process Scheduling
 
->This program will simulate a process scheduling part of an operating system.
-mesage queues will be used for sychronization.
+>This program will simulate a process scheduling part of an operating system. 
+Message queues will be used for sychronization.
 
->
+>This Project is not finished. I have set up my shared memory and some of my 
+message queue functions and was starting on scheduling the processes and 
+thats when it really got tough.
+
+>This is one the hardest projects I have yet to work on and it was and is a 
+learning experience.
 
